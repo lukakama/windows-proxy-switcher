@@ -1,0 +1,9 @@
+{
+	"mavenConfigPath" : null,
+	
+	"no-proxy": {
+		"proxyHost" : null,
+		"proxyPort" : null,
+		"proxyExclusions": null
+	}
+}
