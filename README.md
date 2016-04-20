@@ -1,6 +1,6 @@
 # Proxy switcher for Windows
 
-Simple WScript that can be used to change system proxies (with support for Maven and NodeJS tools).
+Simple JavaScript for WScript that can be used to change system proxies (with support for Maven and NodeJS tools).
 
 To use it, download both [switch-proxy.js](switch-proxy.js) and [proxy-config.json](proxy-config.json) files and place them in the same directory. Then, edit the `proxy-config.json` to set the `mavenConfigPath` property to the full path of the maven settings.xml file (or leave it `null` to disable maven settings modifications) and add needed proxy configuraion profiles in the following form:
 ```json
