@@ -48,4 +48,6 @@ Example `proxy-config.json`:
 ```
 
 
-To activate a profile, just open a command line and execute the script issueing a `switch-proxy.js profile-name` in the direcotry where you placed the script (ex: `switch-proxy.js local-proxy`).
+To activate a profile, just open a command line and execute the script issueing a `switch-proxy.js profile-name` in the directory where you placed the script (example: `switch-proxy.js local-proxy`).
+
+If you want, you can create a shortcut on your desktop for each configured profile in order to quickly activate them.
