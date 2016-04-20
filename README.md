@@ -1,4 +1,4 @@
-# windows-proxy-switcher
+# Proxy switcher for Windows
 
 Simple WScript that can be used to change system proxies (with support for Maven and NodeJS tools).
 
